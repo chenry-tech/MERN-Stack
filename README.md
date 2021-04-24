@@ -20,6 +20,7 @@ Using MERN (MongoDB + Express + React + Node.js) stack.
             └── app  
                  ├── web  
                  │    > React  
+                 │
                  └── native
                       > React Native
 
