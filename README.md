@@ -1,8 +1,7 @@
-# MERN-Stack
+# MERN-stack-architecture
 
-##This is a Full-stack web development framework.
+## Full Stack web devlopment using MongoDB, Express, React, Node.js & Redux, Matrial-UI, Ant Design
 
-Using MERN (MongoDB + Express + React + Node.js) stack.
 
 ## Code structure
 
