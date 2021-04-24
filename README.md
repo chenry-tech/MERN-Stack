@@ -12,30 +12,15 @@ Using MERN (MongoDB + Express + React + Node.js) stack.
       │     │   
       │     └── server  
       │           > Node.js + Express  
-│
-└── frontend  
-      ├── landing-page  
-      │     > SSR  
-      │  
-      └── app  
-           ├── web  
-           │    > React  
-           └── native
-                > React Native
-	   
-## Core Structure
+      │
+      └── frontend  
+            ├── landing-page  
+            │     > SSR  
+            │  
+            └── app  
+                 ├── web  
+                 │    > React  
+                 └── native
+                      > React Native
 
-    fsja
-      ├── backend
-      │   ├── api
-      │   │   > NodeJS
-      │   │   > PORT 8000
-      │   │   > api.example.com
-      │   │
-      │   ├── database
-      │   │   > MongoDB
-      │   │   > PORT 27017
-      │   │
-      │   └── proxy
-      │       > NGINX
-      │       > PORT 80 / 443
+
