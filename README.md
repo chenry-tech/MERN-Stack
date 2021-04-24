@@ -4,10 +4,10 @@
 
 Using MERN (MongoDB + Express + React + Node.js) stack.
 
-Code structure
+## Code structure
 
 ├── backend  
-│   ├── database  
+│     ├── database  
 │     │     > MongoDB  
 │     │   
 │     └── server  
