@@ -7,7 +7,7 @@ Using MERN (MongoDB + Express + React + Node.js) stack.
 Code structure
 
 ├── backend  
-│     ├── database  
+│   ├── database  
 │     │     > MongoDB  
 │     │   
 │     └── server  
