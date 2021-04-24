@@ -23,8 +23,19 @@ Code structure
            └── native
                 > React Native
 	   
-│>缩进一
-│>>缩进二
-│>>>缩进三
-│>│>>>缩进四
->>>>>缩进五
+## Core Structure
+
+    fsja
+      ├── backend
+      │   ├── api
+      │   │   > NodeJS
+      │   │   > PORT 8000
+      │   │   > api.example.com
+      │   │
+      │   ├── database
+      │   │   > MongoDB
+      │   │   > PORT 27017
+      │   │
+      │   └── proxy
+      │       > NGINX
+      │       > PORT 80 / 443
