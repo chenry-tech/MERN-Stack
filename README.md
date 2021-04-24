@@ -6,16 +6,19 @@ Using MERN (MongoDB + Express + React + Node.js) stack.
 Code structure
 
 ├── backend  
-│ 	├── database  
-│ 	│ 	> MongoDB  
-│ 	│   
-│ 	└── server  
-│  		  > Node.js + Express  
+│     ├── database  
+│     │     > MongoDB  
+│     │   
+│     └── server  
+│           > Node.js + Express  
 │
 └── frontend  
- 	├── landing-page  
- 	│ 	> SSR  
-	│  
-	└── app  
- 		└── web  
- 			  > React  
+      ├── landing-page  
+      │     > SSR  
+      │  
+      └── app  
+           ├── web  
+           │    > React  
+           └── native
+                > React Native
+	   
